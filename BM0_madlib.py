@@ -9,7 +9,7 @@ madlibType = [0,1,2]
 
 random_number = random.choice(madlibType)
 
-if random_number == 0
+if random_number == 0:
     {wrd0} = input("Type an adjective: ")
     {wrd1} = input("Type a noun: ")
     {wrd2} = input("Type a number: ")
@@ -26,7 +26,7 @@ if random_number == 0
 #Once upon a time, there was a fair maiden, who could only say '67'. This was due to a/an terrible skin condition given to them in Maine. Alas, their numerous enemies took advantage of this conundrum and stabbed them 67 times in the back with a/an knife.
 ###_________________________________________###
 
-if random_number == 1
+if random_number == 1:
     {wrd0} = input("Type a noun: ")
     {wrd1} = input("Type a noun: ")
     {wrd2} = input("Type a part of the body: ")
@@ -42,7 +42,7 @@ if random_number == 1
 #The last thing you want in your burger king burger is someone's foot fungus, but that may be what you get. An anonymous 4chan user posted a picture of themself standing in a box of burger king lettuce. Then they got fired. 
 ###_________________________________________###
 
-if random_number == 2
+if random_number == 2:
     {wrd0} = input("Type a name: ")
     {wrd1} = input("Type a verb ending in ing: ")
     {wrd2} = input("Type a verb: ")
